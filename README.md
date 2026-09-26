@@ -1,2 +1,2 @@
 # asciiPy
-a lightweight text to ascii title converter made with python
+text to ascii title converter written in python
